@@ -1,0 +1,14 @@
+
+*.pt
+notebook_ims
+.ipynb_checkpoints
+Cat_Dog_data
+F_MNIST_data
+*.pyc
+*.pth
+images
+assets
+__pycache__
+flower_data
+*.pem
+data
